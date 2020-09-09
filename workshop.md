@@ -2,7 +2,7 @@
 
 In this workshop, we will discuss *What Flutter is and make our first Flutter app*.
 
-| **Project Goal**              | *describe the goal of the project*                                    |
+| **Project Goal**              | *Deploy your very own single page Flutter App !*                      |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | Learn to install, setup, code and deploy your first Flutter App!      |
 | **What you'll need**          | Android Studio, Flutter SDK, Android/iPhone Developer Mode unlock     |
