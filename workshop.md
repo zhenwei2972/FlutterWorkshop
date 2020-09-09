@@ -4,7 +4,7 @@ In this workshop, we will discuss *What Flutter is and make our first Flutter ap
 
 | **Project Goal**              | *describe the goal of the project*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
+| **What will you learn**       | Learn to install, setup, code and deploy your first Flutter App!      |
 | **What you'll need**          | Android Studio, Flutter SDK, Android/iPhone Developer Mode unlock     |
 | **Duration**                  | 1 hour  30 minutes                                                    |
 | **Just want to try the app?** | *a link to the completed project sample app*                          |
