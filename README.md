@@ -1,6 +1,6 @@
 # NTU Innovation Lab Flutter Workshop
 
-Would you like to try to create a _describe project_? This repo contains instructions for a workshop activity for students. There are also ['train-the-trainer' instructions](instructor_materials/README.md) for instructors.
+ There are also ['train-the-trainer' instructions](instructor_materials/README.md)
 
 ## Installation Instructions
 
