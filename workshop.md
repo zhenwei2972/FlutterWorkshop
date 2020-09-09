@@ -1,12 +1,12 @@
 # Session 1 Instructions
 
-In this workshop, we will discuss *What is flutter and make our first flutter app*.
+In this workshop, we will discuss *What Flutter is and make our first Flutter app*.
 
 | **Project Goal**              | *describe the goal of the project*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | 1 hour                                                                |
+| **What you'll need**          | Android Studio, Flutter SDK, Android/iPhone Developer Mode unlock     |
+| **Duration**                  | 1 hour  30 minutes                                                    |
 | **Just want to try the app?** | *a link to the completed project sample app*                          |
 
 ## Installation &  Pre-Learning
@@ -22,45 +22,53 @@ https://www.linkedin.com/learning/flutter-part-01-introduction/the-anatomy-of-a-
 
 ![preview image](images/placeholder.png)
 
-## Build the interface
+## Build the interface --> VIDEO 1 
 
+https://www.linkedin.com/learning/flutter-part-02-building-apps/creating-a-flutter-project-from-scratch?u=60693444
+16 Mins
 *code snippets to aid in the building proces*
 
-> *tips, tricks, callouts*
+> *Questions, Knowledge Checks*
 
-## Build the backend
+## Scaffolding a material app
 
-*detailed instructions and code snippets*
-
+https://www.linkedin.com/learning/flutter-part-02-building-apps/scaffolding-a-materialapp?u=60693444
+21 mins
 ```
 { sample code here }
 ```
 
-What's going on here? 
+## Loading an Image into the Flutter
 
-*explanation*
-
-## Style the app
-
-*any frontend styling*
+https://www.linkedin.com/learning/flutter-part-02-building-apps/working-with-assets-in-flutter-and-the-pubspec-file?u=60693444
+9mins, can be cut to 2 mins , trainer demo
 
 ## Build the API
 
 *instructions on how to build the API or other backend services*
 
 
-## Deploy the app
+## Deploy the app to Android //Parallel with IPhone Deployment
 
-*deployment instructions*
+https://www.linkedin.com/learning/flutter-part-02-building-apps/deploy-to-android-devices?u=60693444
+6min 
+Possibly more time may be needed to help with issues 
 
-## Next steps
+## Deploy the app to iPhone //Parallel with Android Deployment
+https://www.linkedin.com/learning/flutter-part-02-building-apps/deploy-to-ios-devices?u=60693444
+14min 
 
+## Challenge
+1)Change Image
+2)Customize App Name
+https://www.linkedin.com/learning/flutter-part-02-building-apps/app-challenges?u=60693444
+15 min
 *links to Learn to further learning progress, and any path to certifications*
 
-## Feedback
+## Q & A
 
-*include instructions on how to give feedback, perhaps in the issues tab if enabled* 
+Open to any questions / spillover time to help those who are stuck. 
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
-[Contributing Guide](CONTRIBUTING.md)
+
