@@ -1,6 +1,8 @@
 ## Instructor materials
 
 This content will be run as a short [workshop](./workshop.md), where you will lead students in building a flutter app
+It is OK to spend extra time on foundational material.
+Trainers do not need to be expert on the subject matter, infact if you have just picked up the content, you may have the context that makes teaching it more easy.
 
 
 ## Leading a Flutter Session 
