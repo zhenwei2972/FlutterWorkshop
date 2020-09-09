@@ -1,6 +1,6 @@
-# Workshop Instructions
+# Session 1 Instructions
 
-In this workshop, we will discuss *insert your topic*.
+In this workshop, we will discuss *What is flutter and make our first flutter app*.
 
 | **Project Goal**              | *describe the goal of the project*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
@@ -9,13 +9,16 @@ In this workshop, we will discuss *insert your topic*.
 | **Duration**                  | 1 hour                                                                |
 | **Just want to try the app?** | *a link to the completed project sample app*                          |
 
-## Pre-Learning
+## Installation &  Pre-Learning
 
-*add a link to MS Learn for students to pre-learn the topic, if possible*
+Install Flutter on Device & Connect your Android / iPhone
+https://docs.google.com/document/d/1e2_5wm2sradsvNIHgturJ29R9LZfgHH2/edit
+Watch introduction to flutter
+https://www.linkedin.com/learning/flutter-part-01-introduction/why-flutter?u=60693444
 
 ## Architecture
 
-*describe how you will architect your project*
+https://www.linkedin.com/learning/flutter-part-01-introduction/the-anatomy-of-a-flutter-app?u=60693444
 
 ![preview image](images/placeholder.png)
 
