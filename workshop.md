@@ -43,10 +43,6 @@ https://www.linkedin.com/learning/flutter-part-02-building-apps/scaffolding-a-ma
 https://www.linkedin.com/learning/flutter-part-02-building-apps/working-with-assets-in-flutter-and-the-pubspec-file?u=60693444
 9mins, can be cut to 2 mins , trainer demo
 
-## Build the API
-
-*instructions on how to build the API or other backend services*
-
 
 ## Deploy the app to Android //Parallel with IPhone Deployment
 
