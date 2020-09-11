@@ -20,7 +20,7 @@ https://www.linkedin.com/learning/flutter-part-01-introduction/why-flutter?u=606
 
 https://www.linkedin.com/learning/flutter-part-01-introduction/the-anatomy-of-a-flutter-app?u=60693444
 
-![preview image](images/placeholder.png)
+![preview image](images/placeholder.jpg)
 
 ## Build the interface --> VIDEO 1 
 
