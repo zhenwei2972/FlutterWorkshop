@@ -1,6 +1,6 @@
 # Session 1 Instructions
 
-In this workshop, we will discuss *What Flutter is and make our first Flutter app*.
+In this session, we will discuss *What Flutter is and make our first Flutter app*.
 
 | **Project Goal**              | *Deploy your very own single page Flutter App !*                      |
 | ----------------------------- | --------------------------------------------------------------------- |
