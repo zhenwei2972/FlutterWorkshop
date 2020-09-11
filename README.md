@@ -1,10 +1,11 @@
 # NTU Innovation Lab Flutter Workshop
 
- There are also ['train-the-trainer' instructions](instructor_materials/README.md)
 
 
 ## Lesson 1 Instructions
 
-Participating in this workshop? go [here](workshop.md).
+Participating in this session? go [here](workshop.md).
+
+Are you a trainer? Please visit for a trainer brief ['train-the-trainer' instructions](instructor_materials/README.md)
 
 
